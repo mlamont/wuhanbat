@@ -21,3 +21,9 @@
 2. Prove creative supply: create 6 posts / chapters onto that one main page.
 3. Explore sub-domaining: split content into 6 sub-domains (01-06) and a table of contents (00).
 4. Explore asset ownability: play with name wrapper & fuses.
+
+## the details / some specifics
+- 1-9.wuhanbat.eth: special/admin/meta pages, with "0." as table of these contents.
+- 01-99.wuhanbat.eth: content pages, written by me, with "00." as table of these contents.
+- 001-999.wuhanbat.eth: content pages, written by others, with "000." as table of these contents.
+- wuhanbat.eth: landing page, with introductory content, including the latest from the 1N/2N/3N sections.
